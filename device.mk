@@ -48,4 +48,4 @@ PRODUCT_SOONG_NAMESPACES += \
     $(LOCAL_PATH)
 
 # Inherit from the proprietary version
-$(call inherit-product, vendor/xiaomi/nuwa/nuwa-vendor.mk)
+# $(call inherit-product, vendor/xiaomi/nuwa/nuwa-vendor.mk)
